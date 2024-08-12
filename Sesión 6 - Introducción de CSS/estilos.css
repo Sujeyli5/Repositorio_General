@@ -1,0 +1,17 @@
+div {
+    background-color: rgb(224, 169, 226);
+    width: 450px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 23px;
+    color: rgb(122, 122, 165);
+}
+
+h1 {
+    font-size: 35px;
+    text-align: center;
+}
+
+span {
+    color: rgb(21, 58, 80);
+}
